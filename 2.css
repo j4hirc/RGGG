@@ -1,0 +1,108 @@
+* {
+    font-family: 'Silkscreen', cursive;
+    color: white;
+    background-color: #071729;
+}
+
+.escudo {
+    width: 200px;
+    position: relative;
+    left: 570px;
+    bottom: 230px;
+    border-radius: 30px;
+
+}
+
+.article-t {
+    width: 800px;
+    position: relative;
+    bottom: 220px;
+    left: 270px;
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+    border-radius: 30px;
+    border-style: solid;
+}
+
+.article-p {
+    width: 900px;
+    text-align: center;
+    position: relative;
+    bottom: 200px;
+    left: 220px;
+    background-color: black;
+    padding: 20px;
+    border-radius: 30px;
+    border-style: solid;
+}
+
+.end {
+    color: white;
+    text-align: center;
+    position: relative;
+    bottom: 20px;
+}
+.end-p {
+    position: relative;
+    bottom: 20px;
+}
+
+.nav1 {
+    position: relative;
+    left: 290px;
+    top: 20px;
+    font-size: 20px;
+    display: inline-block;
+    padding: 20px 30px;
+    background-color: chocolate;
+    border-style: solid;
+    margin: 10px;
+    border-radius: 30px;
+    color: black;
+
+
+}
+
+.nav2 {
+    position: relative;
+    left: 440px;
+    bottom: 70px;
+    font-size: 20px;
+    display: inline-block;
+    padding: 20px 30px;
+    background-color: chocolate;
+    border-style: solid;
+    margin: 10px;
+    border-radius: 30px;
+    color: black;
+
+}
+
+.nav3 {
+    position: relative;
+    left: 720px;
+    bottom: 160px;
+    font-size: 20px;
+    display: inline-block;
+    padding: 20px 30px;
+    background-color: chocolate;
+    border-style: solid;
+    margin: 10px;
+    border-radius: 30px;
+    color: black;
+}
+
+.nav4 {
+    position: relative;
+    left: 880px;
+    bottom: 250px;
+    font-size: 20px;
+    display: inline-block;
+    padding: 20px 30px;
+    background-color: chocolate;
+    border-style: solid;
+    margin: 10px;
+    border-radius: 30px;
+    color: black;
+}
