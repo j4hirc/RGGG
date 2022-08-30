@@ -1,0 +1,79 @@
+* {
+	font-family: 'Silkscreen', cursive;
+	background-color: #071729;
+}
+
+.escudo {
+	width: 200px;
+	position: relative;
+	left: 570px;
+	bottom: 70px;
+	border-radius: 30px;
+
+}
+
+.remigio {
+	color: white;
+	position: relative;
+	top: 220px;
+	text-align: center;
+}
+
+.fundacion {
+	color: white;
+	text-align: center;
+	position: relative;
+	bottom: 20px;
+	top: 15px;
+
+}
+.inst {
+	color: white;
+	width: 700px;
+	text-align: center;
+	position: relative;
+	left: 327px;
+	bottom: 10px;
+	top: 60px;
+
+}
+
+.articulo-t {
+	color: white;
+	width: 720px;
+	text-align: center;
+	position: relative;
+	left: 327px;
+	top: 100px;
+}
+
+.l1 {
+	position: relative;
+	left: 450px;
+	top: 140px;
+	font-size: 20px;
+	display: inline-block;
+	padding: 20px 30px;
+	background-color: chocolate;
+	border-style: solid;
+	margin: 10px;
+	border-radius: 30px;
+	color: black;
+
+
+
+}
+
+
+.end {
+	color: white;
+	text-align: center;
+	position: relative;
+	top: 150px;
+}
+.end-p {
+	position: relative;
+	top: 150px;
+	display: inline block;
+	padding: 10px;
+}

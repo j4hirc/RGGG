@@ -1,0 +1,86 @@
+* {
+    font-family: 'Silkscreen', cursive;
+    color: white;
+    background-color: #071729;
+}
+
+.escudo {
+    width: 200px;
+    position: relative;
+    left: 570px;
+    bottom: 230px;
+    border-radius: 30px;
+
+}
+
+
+.nav1 {
+    position: relative;
+    left: 310px;
+    top: 20px;
+    font-size: 20px;
+    display: inline-block;
+    padding: 20px 30px;
+    background-color: chocolate;
+    border-style: solid;
+    margin: 10px;
+    border-radius: 30px;
+    color: black;
+
+
+}
+
+.nav2 {
+    position: relative;
+    left: 470px;
+    bottom: 68px;
+    font-size: 20px;
+    display: inline-block;
+    padding: 20px 30px;
+    background-color: chocolate;
+    border-style: solid;
+    margin: 10px;
+    border-radius: 30px;
+    color: black;
+
+}
+
+.nav3 {
+    position: relative;
+    left: 660px;
+    bottom: 156px;
+    font-size: 20px;
+    display: inline-block;
+    padding: 20px 30px;
+    background-color: chocolate;
+    border-style: solid;
+    margin: 10px;
+    border-radius: 30px;
+    color: black;
+}
+
+.nav4 {
+    position: relative;
+    left: 830px;
+    bottom: 245px;
+    font-size: 20px;
+    display: inline-block;
+    padding: 20px 30px;
+    background-color: chocolate;
+    border-style: solid;
+    margin: 10px;
+    border-radius: 30px;
+    color: black;
+}
+
+.article-t {
+    width: 700px;
+    position: relative;
+    bottom: 220px;
+    left: 330px;
+    text-align: center;
+    padding: 10px;
+    background-color: black;
+    border-radius: 30px;
+    border-style: solid;
+}
